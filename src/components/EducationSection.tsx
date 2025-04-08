@@ -16,7 +16,7 @@ const EducationSection = () => {
           </li>
         </ul>
         <a
-          href="https://www.freecodecamp.org/certification/fcc94b44b33-3ff8-4c08-b494-f7e88b1f2a5d/responsive-web-design"
+          href="https://www.freecodecamp.org/certification/fccffcef208-bcde-43cb-b180-8d53aacd624d/responsive-web-design"
           target="_blank"
           rel="noopener noreferrer"
           className="text-purple-600 hover:underline text-base mt-4 inline-block"
